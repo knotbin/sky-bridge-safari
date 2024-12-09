@@ -7,6 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		599C423A2D066811005F6F52 /* icon48.plasmo.aced7582.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C42312D066811005F6F52 /* icon48.plasmo.aced7582.png */; };
+		599C423B2D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C422D2D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png */; };
+		599C423C2D066811005F6F52 /* popup.100f6462.js in Resources */ = {isa = PBXBuildFile; fileRef = 599C422F2D066811005F6F52 /* popup.100f6462.js */; };
+		599C423D2D066811005F6F52 /* icon16.plasmo.6c567d50.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C422C2D066811005F6F52 /* icon16.plasmo.6c567d50.png */; };
+		599C423E2D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C42302D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png */; };
+		599C423F2D066811005F6F52 /* options.95eda3f3.js in Resources */ = {isa = PBXBuildFile; fileRef = 599C42372D066811005F6F52 /* options.95eda3f3.js */; };
+		599C42402D066811005F6F52 /* static in Resources */ = {isa = PBXBuildFile; fileRef = 599C42322D066811005F6F52 /* static */; };
+		599C42412D066811005F6F52 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 599C422E2D066811005F6F52 /* popup.html */; };
+		599C42422D066811005F6F52 /* options.html in Resources */ = {isa = PBXBuildFile; fileRef = 599C42362D066811005F6F52 /* options.html */; };
+		599C42432D066811005F6F52 /* icon32.plasmo.76b92899.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C42382D066811005F6F52 /* icon32.plasmo.76b92899.png */; };
+		599C42442D066811005F6F52 /* App.afcf8043.js in Resources */ = {isa = PBXBuildFile; fileRef = 599C42352D066811005F6F52 /* App.afcf8043.js */; };
+		599C42452D066811005F6F52 /* options.de4da450.css in Resources */ = {isa = PBXBuildFile; fileRef = 599C42332D066811005F6F52 /* options.de4da450.css */; };
+		599C42462D066811005F6F52 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 599C42342D066811005F6F52 /* manifest.json */; };
+		599C42472D066811005F6F52 /* popup.df89bfed.css in Resources */ = {isa = PBXBuildFile; fileRef = 599C42392D066811005F6F52 /* popup.df89bfed.css */; };
+		599C42482D066811005F6F52 /* icon48.plasmo.aced7582.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C42312D066811005F6F52 /* icon48.plasmo.aced7582.png */; };
+		599C42492D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C422D2D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png */; };
+		599C424A2D066811005F6F52 /* popup.100f6462.js in Resources */ = {isa = PBXBuildFile; fileRef = 599C422F2D066811005F6F52 /* popup.100f6462.js */; };
+		599C424B2D066811005F6F52 /* icon16.plasmo.6c567d50.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C422C2D066811005F6F52 /* icon16.plasmo.6c567d50.png */; };
+		599C424C2D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C42302D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png */; };
+		599C424D2D066811005F6F52 /* options.95eda3f3.js in Resources */ = {isa = PBXBuildFile; fileRef = 599C42372D066811005F6F52 /* options.95eda3f3.js */; };
+		599C424E2D066811005F6F52 /* static in Resources */ = {isa = PBXBuildFile; fileRef = 599C42322D066811005F6F52 /* static */; };
+		599C424F2D066811005F6F52 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 599C422E2D066811005F6F52 /* popup.html */; };
+		599C42502D066811005F6F52 /* options.html in Resources */ = {isa = PBXBuildFile; fileRef = 599C42362D066811005F6F52 /* options.html */; };
+		599C42512D066811005F6F52 /* icon32.plasmo.76b92899.png in Resources */ = {isa = PBXBuildFile; fileRef = 599C42382D066811005F6F52 /* icon32.plasmo.76b92899.png */; };
+		599C42522D066811005F6F52 /* App.afcf8043.js in Resources */ = {isa = PBXBuildFile; fileRef = 599C42352D066811005F6F52 /* App.afcf8043.js */; };
+		599C42532D066811005F6F52 /* options.de4da450.css in Resources */ = {isa = PBXBuildFile; fileRef = 599C42332D066811005F6F52 /* options.de4da450.css */; };
+		599C42542D066811005F6F52 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 599C42342D066811005F6F52 /* manifest.json */; };
+		599C42552D066811005F6F52 /* popup.df89bfed.css in Resources */ = {isa = PBXBuildFile; fileRef = 599C42392D066811005F6F52 /* popup.df89bfed.css */; };
 		59E3A2752CFBF47B008082A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E3A2742CFBF47B008082A6 /* AppDelegate.swift */; };
 		59E3A2772CFBF47B008082A6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E3A2762CFBF47B008082A6 /* SceneDelegate.swift */; };
 		59E3A27A2CFBF47B008082A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2782CFBF47B008082A6 /* LaunchScreen.storyboard */; };
@@ -29,36 +57,6 @@
 		59E3A2AC2CFBF47C008082A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A26A2CFBF47B008082A6 /* Assets.xcassets */; };
 		59E3A2AD2CFBF47C008082A6 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E3A26C2CFBF47B008082A6 /* SafariWebExtensionHandler.swift */; };
 		59E3A2AE2CFBF47C008082A6 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59E3A26C2CFBF47B008082A6 /* SafariWebExtensionHandler.swift */; };
-		59E3A2CF2CFBF47C008082A6 /* icon16.plasmo.6c567d50.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C02CFBF47C008082A6 /* icon16.plasmo.6c567d50.png */; };
-		59E3A2D02CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C12CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png */; };
-		59E3A2D12CFBF47C008082A6 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C22CFBF47C008082A6 /* popup.html */; };
-		59E3A2D22CFBF47C008082A6 /* popup.100f6462.js in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C32CFBF47C008082A6 /* popup.100f6462.js */; };
-		59E3A2D32CFBF47C008082A6 /* _metadata in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C42CFBF47C008082A6 /* _metadata */; };
-		59E3A2D42CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C52CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png */; };
-		59E3A2D52CFBF47C008082A6 /* icon48.plasmo.aced7582.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C62CFBF47C008082A6 /* icon48.plasmo.aced7582.png */; };
-		59E3A2D62CFBF47C008082A6 /* static in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C72CFBF47C008082A6 /* static */; };
-		59E3A2D72CFBF47C008082A6 /* options.de4da450.css in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C82CFBF47C008082A6 /* options.de4da450.css */; };
-		59E3A2D82CFBF47C008082A6 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C92CFBF47C008082A6 /* manifest.json */; };
-		59E3A2D92CFBF47C008082A6 /* App.afcf8043.js in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CA2CFBF47C008082A6 /* App.afcf8043.js */; };
-		59E3A2DA2CFBF47C008082A6 /* options.html in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CB2CFBF47C008082A6 /* options.html */; };
-		59E3A2DB2CFBF47C008082A6 /* options.95eda3f3.js in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CC2CFBF47C008082A6 /* options.95eda3f3.js */; };
-		59E3A2DC2CFBF47C008082A6 /* icon32.plasmo.76b92899.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CD2CFBF47C008082A6 /* icon32.plasmo.76b92899.png */; };
-		59E3A2DD2CFBF47C008082A6 /* popup.df89bfed.css in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CE2CFBF47C008082A6 /* popup.df89bfed.css */; };
-		59E3A2DE2CFBF47C008082A6 /* icon16.plasmo.6c567d50.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C02CFBF47C008082A6 /* icon16.plasmo.6c567d50.png */; };
-		59E3A2DF2CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C12CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png */; };
-		59E3A2E02CFBF47C008082A6 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C22CFBF47C008082A6 /* popup.html */; };
-		59E3A2E12CFBF47C008082A6 /* popup.100f6462.js in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C32CFBF47C008082A6 /* popup.100f6462.js */; };
-		59E3A2E22CFBF47C008082A6 /* _metadata in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C42CFBF47C008082A6 /* _metadata */; };
-		59E3A2E32CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C52CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png */; };
-		59E3A2E42CFBF47C008082A6 /* icon48.plasmo.aced7582.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C62CFBF47C008082A6 /* icon48.plasmo.aced7582.png */; };
-		59E3A2E52CFBF47C008082A6 /* static in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C72CFBF47C008082A6 /* static */; };
-		59E3A2E62CFBF47C008082A6 /* options.de4da450.css in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C82CFBF47C008082A6 /* options.de4da450.css */; };
-		59E3A2E72CFBF47C008082A6 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2C92CFBF47C008082A6 /* manifest.json */; };
-		59E3A2E82CFBF47C008082A6 /* App.afcf8043.js in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CA2CFBF47C008082A6 /* App.afcf8043.js */; };
-		59E3A2E92CFBF47C008082A6 /* options.html in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CB2CFBF47C008082A6 /* options.html */; };
-		59E3A2EA2CFBF47C008082A6 /* options.95eda3f3.js in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CC2CFBF47C008082A6 /* options.95eda3f3.js */; };
-		59E3A2EB2CFBF47C008082A6 /* icon32.plasmo.76b92899.png in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CD2CFBF47C008082A6 /* icon32.plasmo.76b92899.png */; };
-		59E3A2EC2CFBF47C008082A6 /* popup.df89bfed.css in Resources */ = {isa = PBXBuildFile; fileRef = 59E3A2CE2CFBF47C008082A6 /* popup.df89bfed.css */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,6 +102,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		599C422C2D066811005F6F52 /* icon16.plasmo.6c567d50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon16.plasmo.6c567d50.png; path = "../../sky-follower-bridge/build/chrome-mv3-prod/icon16.plasmo.6c567d50.png"; sourceTree = "<group>"; };
+		599C422D2D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon64.plasmo.8bb5e6e0.png; path = "../../sky-follower-bridge/build/chrome-mv3-prod/icon64.plasmo.8bb5e6e0.png"; sourceTree = "<group>"; };
+		599C422E2D066811005F6F52 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = "../../sky-follower-bridge/build/chrome-mv3-prod/popup.html"; sourceTree = "<group>"; };
+		599C422F2D066811005F6F52 /* popup.100f6462.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.100f6462.js; path = "../../sky-follower-bridge/build/chrome-mv3-prod/popup.100f6462.js"; sourceTree = "<group>"; };
+		599C42302D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon128.plasmo.3c1ed2d2.png; path = "../../sky-follower-bridge/build/chrome-mv3-prod/icon128.plasmo.3c1ed2d2.png"; sourceTree = "<group>"; };
+		599C42312D066811005F6F52 /* icon48.plasmo.aced7582.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon48.plasmo.aced7582.png; path = "../../sky-follower-bridge/build/chrome-mv3-prod/icon48.plasmo.aced7582.png"; sourceTree = "<group>"; };
+		599C42322D066811005F6F52 /* static */ = {isa = PBXFileReference; lastKnownFileType = folder; name = static; path = "../../sky-follower-bridge/build/chrome-mv3-prod/static"; sourceTree = "<group>"; };
+		599C42332D066811005F6F52 /* options.de4da450.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = options.de4da450.css; path = "../../sky-follower-bridge/build/chrome-mv3-prod/options.de4da450.css"; sourceTree = "<group>"; };
+		599C42342D066811005F6F52 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../sky-follower-bridge/build/chrome-mv3-prod/manifest.json"; sourceTree = "<group>"; };
+		599C42352D066811005F6F52 /* App.afcf8043.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = App.afcf8043.js; path = "../../sky-follower-bridge/build/chrome-mv3-prod/App.afcf8043.js"; sourceTree = "<group>"; };
+		599C42362D066811005F6F52 /* options.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = options.html; path = "../../sky-follower-bridge/build/chrome-mv3-prod/options.html"; sourceTree = "<group>"; };
+		599C42372D066811005F6F52 /* options.95eda3f3.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = options.95eda3f3.js; path = "../../sky-follower-bridge/build/chrome-mv3-prod/options.95eda3f3.js"; sourceTree = "<group>"; };
+		599C42382D066811005F6F52 /* icon32.plasmo.76b92899.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon32.plasmo.76b92899.png; path = "../../sky-follower-bridge/build/chrome-mv3-prod/icon32.plasmo.76b92899.png"; sourceTree = "<group>"; };
+		599C42392D066811005F6F52 /* popup.df89bfed.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = popup.df89bfed.css; path = "../../sky-follower-bridge/build/chrome-mv3-prod/popup.df89bfed.css"; sourceTree = "<group>"; };
 		59E3A2652CFBF47A008082A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/Main.html; sourceTree = "<group>"; };
 		59E3A2662CFBF47A008082A6 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		59E3A2672CFBF47A008082A6 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
@@ -127,21 +139,6 @@
 		59E3A29A2CFBF47B008082A6 /* Sky Follower Bridge Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Sky Follower Bridge Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59E3A29F2CFBF47C008082A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59E3A2A02CFBF47C008082A6 /* Sky Follower Bridge.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Sky Follower Bridge.entitlements"; sourceTree = "<group>"; };
-		59E3A2C02CFBF47C008082A6 /* icon16.plasmo.6c567d50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon16.plasmo.6c567d50.png; path = "../../../Downloads/Sky-Follower-Bridge/icon16.plasmo.6c567d50.png"; sourceTree = "<group>"; };
-		59E3A2C12CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon64.plasmo.8bb5e6e0.png; path = "../../../Downloads/Sky-Follower-Bridge/icon64.plasmo.8bb5e6e0.png"; sourceTree = "<group>"; };
-		59E3A2C22CFBF47C008082A6 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = "../../../Downloads/Sky-Follower-Bridge/popup.html"; sourceTree = "<group>"; };
-		59E3A2C32CFBF47C008082A6 /* popup.100f6462.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.100f6462.js; path = "../../../Downloads/Sky-Follower-Bridge/popup.100f6462.js"; sourceTree = "<group>"; };
-		59E3A2C42CFBF47C008082A6 /* _metadata */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _metadata; path = "../../../Downloads/Sky-Follower-Bridge/_metadata"; sourceTree = "<group>"; };
-		59E3A2C52CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon128.plasmo.3c1ed2d2.png; path = "../../../Downloads/Sky-Follower-Bridge/icon128.plasmo.3c1ed2d2.png"; sourceTree = "<group>"; };
-		59E3A2C62CFBF47C008082A6 /* icon48.plasmo.aced7582.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon48.plasmo.aced7582.png; path = "../../../Downloads/Sky-Follower-Bridge/icon48.plasmo.aced7582.png"; sourceTree = "<group>"; };
-		59E3A2C72CFBF47C008082A6 /* static */ = {isa = PBXFileReference; lastKnownFileType = folder; name = static; path = "../../../Downloads/Sky-Follower-Bridge/static"; sourceTree = "<group>"; };
-		59E3A2C82CFBF47C008082A6 /* options.de4da450.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = options.de4da450.css; path = "../../../Downloads/Sky-Follower-Bridge/options.de4da450.css"; sourceTree = "<group>"; };
-		59E3A2C92CFBF47C008082A6 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../../Downloads/Sky-Follower-Bridge/manifest.json"; sourceTree = "<group>"; };
-		59E3A2CA2CFBF47C008082A6 /* App.afcf8043.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = App.afcf8043.js; path = "../../../Downloads/Sky-Follower-Bridge/App.afcf8043.js"; sourceTree = "<group>"; };
-		59E3A2CB2CFBF47C008082A6 /* options.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = options.html; path = "../../../Downloads/Sky-Follower-Bridge/options.html"; sourceTree = "<group>"; };
-		59E3A2CC2CFBF47C008082A6 /* options.95eda3f3.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = options.95eda3f3.js; path = "../../../Downloads/Sky-Follower-Bridge/options.95eda3f3.js"; sourceTree = "<group>"; };
-		59E3A2CD2CFBF47C008082A6 /* icon32.plasmo.76b92899.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon32.plasmo.76b92899.png; path = "../../../Downloads/Sky-Follower-Bridge/icon32.plasmo.76b92899.png"; sourceTree = "<group>"; };
-		59E3A2CE2CFBF47C008082A6 /* popup.df89bfed.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = popup.df89bfed.css; path = "../../../Downloads/Sky-Follower-Bridge/popup.df89bfed.css"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -273,21 +270,20 @@
 		59E3A2BF2CFBF47C008082A6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				59E3A2C02CFBF47C008082A6 /* icon16.plasmo.6c567d50.png */,
-				59E3A2C12CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png */,
-				59E3A2C22CFBF47C008082A6 /* popup.html */,
-				59E3A2C32CFBF47C008082A6 /* popup.100f6462.js */,
-				59E3A2C42CFBF47C008082A6 /* _metadata */,
-				59E3A2C52CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png */,
-				59E3A2C62CFBF47C008082A6 /* icon48.plasmo.aced7582.png */,
-				59E3A2C72CFBF47C008082A6 /* static */,
-				59E3A2C82CFBF47C008082A6 /* options.de4da450.css */,
-				59E3A2C92CFBF47C008082A6 /* manifest.json */,
-				59E3A2CA2CFBF47C008082A6 /* App.afcf8043.js */,
-				59E3A2CB2CFBF47C008082A6 /* options.html */,
-				59E3A2CC2CFBF47C008082A6 /* options.95eda3f3.js */,
-				59E3A2CD2CFBF47C008082A6 /* icon32.plasmo.76b92899.png */,
-				59E3A2CE2CFBF47C008082A6 /* popup.df89bfed.css */,
+				599C422C2D066811005F6F52 /* icon16.plasmo.6c567d50.png */,
+				599C422D2D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png */,
+				599C422E2D066811005F6F52 /* popup.html */,
+				599C422F2D066811005F6F52 /* popup.100f6462.js */,
+				599C42302D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png */,
+				599C42312D066811005F6F52 /* icon48.plasmo.aced7582.png */,
+				599C42322D066811005F6F52 /* static */,
+				599C42332D066811005F6F52 /* options.de4da450.css */,
+				599C42342D066811005F6F52 /* manifest.json */,
+				599C42352D066811005F6F52 /* App.afcf8043.js */,
+				599C42362D066811005F6F52 /* options.html */,
+				599C42372D066811005F6F52 /* options.95eda3f3.js */,
+				599C42382D066811005F6F52 /* icon32.plasmo.76b92899.png */,
+				599C42392D066811005F6F52 /* popup.df89bfed.css */,
 			);
 			name = Resources;
 			path = "Shared (Extension)";
@@ -454,21 +450,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				59E3A2EC2CFBF47C008082A6 /* popup.df89bfed.css in Resources */,
-				59E3A2E32CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png in Resources */,
-				59E3A2EA2CFBF47C008082A6 /* options.95eda3f3.js in Resources */,
-				59E3A2DE2CFBF47C008082A6 /* icon16.plasmo.6c567d50.png in Resources */,
-				59E3A2E72CFBF47C008082A6 /* manifest.json in Resources */,
-				59E3A2E02CFBF47C008082A6 /* popup.html in Resources */,
-				59E3A2E42CFBF47C008082A6 /* icon48.plasmo.aced7582.png in Resources */,
-				59E3A2DF2CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png in Resources */,
-				59E3A2E22CFBF47C008082A6 /* _metadata in Resources */,
-				59E3A2E82CFBF47C008082A6 /* App.afcf8043.js in Resources */,
-				59E3A2E52CFBF47C008082A6 /* static in Resources */,
-				59E3A2E62CFBF47C008082A6 /* options.de4da450.css in Resources */,
-				59E3A2E12CFBF47C008082A6 /* popup.100f6462.js in Resources */,
-				59E3A2E92CFBF47C008082A6 /* options.html in Resources */,
-				59E3A2EB2CFBF47C008082A6 /* icon32.plasmo.76b92899.png in Resources */,
+				599C42482D066811005F6F52 /* icon48.plasmo.aced7582.png in Resources */,
+				599C42492D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png in Resources */,
+				599C424A2D066811005F6F52 /* popup.100f6462.js in Resources */,
+				599C424B2D066811005F6F52 /* icon16.plasmo.6c567d50.png in Resources */,
+				599C424C2D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png in Resources */,
+				599C424D2D066811005F6F52 /* options.95eda3f3.js in Resources */,
+				599C424E2D066811005F6F52 /* static in Resources */,
+				599C424F2D066811005F6F52 /* popup.html in Resources */,
+				599C42502D066811005F6F52 /* options.html in Resources */,
+				599C42512D066811005F6F52 /* icon32.plasmo.76b92899.png in Resources */,
+				599C42522D066811005F6F52 /* App.afcf8043.js in Resources */,
+				599C42532D066811005F6F52 /* options.de4da450.css in Resources */,
+				599C42542D066811005F6F52 /* manifest.json in Resources */,
+				599C42552D066811005F6F52 /* popup.df89bfed.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -476,21 +471,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				59E3A2DD2CFBF47C008082A6 /* popup.df89bfed.css in Resources */,
-				59E3A2D42CFBF47C008082A6 /* icon128.plasmo.3c1ed2d2.png in Resources */,
-				59E3A2DB2CFBF47C008082A6 /* options.95eda3f3.js in Resources */,
-				59E3A2CF2CFBF47C008082A6 /* icon16.plasmo.6c567d50.png in Resources */,
-				59E3A2D82CFBF47C008082A6 /* manifest.json in Resources */,
-				59E3A2D12CFBF47C008082A6 /* popup.html in Resources */,
-				59E3A2D52CFBF47C008082A6 /* icon48.plasmo.aced7582.png in Resources */,
-				59E3A2D02CFBF47C008082A6 /* icon64.plasmo.8bb5e6e0.png in Resources */,
-				59E3A2D32CFBF47C008082A6 /* _metadata in Resources */,
-				59E3A2D92CFBF47C008082A6 /* App.afcf8043.js in Resources */,
-				59E3A2D62CFBF47C008082A6 /* static in Resources */,
-				59E3A2D72CFBF47C008082A6 /* options.de4da450.css in Resources */,
-				59E3A2D22CFBF47C008082A6 /* popup.100f6462.js in Resources */,
-				59E3A2DA2CFBF47C008082A6 /* options.html in Resources */,
-				59E3A2DC2CFBF47C008082A6 /* icon32.plasmo.76b92899.png in Resources */,
+				599C423A2D066811005F6F52 /* icon48.plasmo.aced7582.png in Resources */,
+				599C423B2D066811005F6F52 /* icon64.plasmo.8bb5e6e0.png in Resources */,
+				599C423C2D066811005F6F52 /* popup.100f6462.js in Resources */,
+				599C423D2D066811005F6F52 /* icon16.plasmo.6c567d50.png in Resources */,
+				599C423E2D066811005F6F52 /* icon128.plasmo.3c1ed2d2.png in Resources */,
+				599C423F2D066811005F6F52 /* options.95eda3f3.js in Resources */,
+				599C42402D066811005F6F52 /* static in Resources */,
+				599C42412D066811005F6F52 /* popup.html in Resources */,
+				599C42422D066811005F6F52 /* options.html in Resources */,
+				599C42432D066811005F6F52 /* icon32.plasmo.76b92899.png in Resources */,
+				599C42442D066811005F6F52 /* App.afcf8043.js in Resources */,
+				599C42452D066811005F6F52 /* options.de4da450.css in Resources */,
+				599C42462D066811005F6F52 /* manifest.json in Resources */,
+				599C42472D066811005F6F52 /* popup.df89bfed.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -702,6 +696,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sky Follower Bridge Extension";
@@ -717,7 +712,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.Sky-Follower-Bridge.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -732,6 +727,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sky Follower Bridge Extension";
@@ -747,7 +743,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.Sky-Follower-Bridge.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -765,10 +761,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5T458C78BL;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sky Follower Bridge";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -786,7 +783,7 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Follower-Bridge";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -802,10 +799,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5T458C78BL;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sky Follower Bridge";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -823,7 +821,7 @@
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Follower-Bridge";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -839,6 +837,7 @@
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/Sky Follower Bridge.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
@@ -855,7 +854,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.Sky-Follower-Bridge.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -870,6 +869,7 @@
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/Sky Follower Bridge.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
@@ -886,7 +886,7 @@
 					"-framework",
 					SafariServices,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.Sky-Follower-Bridge.Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -902,11 +902,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "macOS (App)/Sky Follower Bridge.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (App)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sky Follower Bridge";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -914,14 +916,14 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.Sky-Follower-Bridge";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -936,11 +938,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "macOS (App)/Sky Follower Bridge.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
+				DEVELOPMENT_TEAM = V2WCUWDL7B;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "macOS (App)/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "Sky Follower Bridge";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -948,14 +952,14 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.0;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
 					"-framework",
 					WebKit,
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourCompany.Sky-Follower-Bridge";
+				PRODUCT_BUNDLE_IDENTIFIER = "xyz.knotbin.Sky-Bridge";
 				PRODUCT_NAME = "Sky Follower Bridge";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
